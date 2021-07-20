@@ -13,6 +13,6 @@
 - 🌱 I’m currently learning DSA.
 - 👯 I’m looking to collaborate on embedded system.
 
-[![Santosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=St-luciferr&&show_icons=true&title_color=bfbfbf&icon_color=f2e8fc&text_color=daf7dc&bg_color=0d0317)]
+![Santosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=St-luciferr&&show_icons=true&title_color=bfbfbf&icon_color=f2e8fc&text_color=daf7dc&bg_color=0d0317)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=St-luciferr&layout=compact&show_icons=true&title_color=bfbfbf&icon_color=f2e8fc&text_color=daf7dc&bg_color=0d0317)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=St-luciferr&layout=compact&show_icons=true&title_color=bfbfbf&icon_color=f2e8fc&text_color=daf7dc&bg_color=0d0317)
