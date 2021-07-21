@@ -3,13 +3,13 @@
 <!--
 **St-Luciferr/St-Luciferr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🤔 I’m looking for help with 
+- 🔭 I’m currently working on Productivity Companion (My college Project)
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 💬 Ask me about ...
 -->
 
-- 🔭 I’m currently working on Productivity Companion (My college Project)
 - 🌱 I’m currently learning DSA.
 - 👯 I’m looking to collaborate on embedded system.
 
