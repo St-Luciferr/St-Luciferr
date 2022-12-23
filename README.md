@@ -7,11 +7,12 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 👯 I’m looking to collaborate on embedded system.
 - 💬 Ask me about ...
 -->
 
-- 🌱 I’m currently learning DSA.
-- 👯 I’m looking to collaborate on embedded system.
+- 🌱 I’m currently learning Machine Learning
+
 
 ![Santosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=St-luciferr&&show_icons=true&title_color=bfbfbf&icon_color=f2e8fc&text_color=daf7dc&bg_color=0d0317)
 
