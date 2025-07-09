@@ -64,7 +64,8 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/api?username=St-Luciferr&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="192px" />
+  <img src="https://github-profile-trophy.vercel.app/api?username=St-Luciferr&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="192px" 
+  alt="St-Luciferr's Github Profile Trophy"/>
 </div>
 <div align="center">
   <picture>
@@ -73,23 +74,27 @@
     media="(prefers-color-scheme: dark)"
   />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=St-Luciferr&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=St-Luciferr&show_icons=true&theme=github_dark" 
+  alt="St-Luciferr's Github Stat"
+  />
 </picture>
   <span style="display: inline-block; vertical-align: top; margin: 0 10px;">
     <img 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=St-Luciferr&layout=compact&theme=github_dark&langs_count=8&hide=html,css" 
-      alt="Top Languages"
+      alt="St-Luciferr's Top Languages"
       height="192px"
     />
   </span>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=St-Luciferr&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=St-Luciferr&theme=tokyonight" 
+  alt="St-Luciferr's Github Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=St-Luciferr&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=St-Luciferr&theme=tokyo-night&hide_border=true&area=true" 
+  alt="St-Luciferr's Contribution Graph"/>
 </div>
 
 ---
