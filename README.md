@@ -83,7 +83,7 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=St-Luciferr&theme=tokyonight" 
+  <img src="https://github-readme-streak-stats-chi-nine.vercel.app/?user=St-Luciferr&theme=tokyonight" 
   alt="St-Luciferr's Github Streak"/>
 </div>
 
