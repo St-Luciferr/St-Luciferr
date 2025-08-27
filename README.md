@@ -64,7 +64,7 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/api?username=St-Luciferr&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="192px" 
+  <img src="https://github-profile-trophy-ou5r1wvbk-ryo-ma-s-team.vercel.app/api?username=St-Luciferr&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="192px" 
   alt="St-Luciferr's Github Profile Trophy"/>
 </div>
 <div align="center">
@@ -85,7 +85,9 @@
 <div align="center">
   <img src="https://github-readme-streak-stats-chi-nine.vercel.app/?user=St-Luciferr&theme=tokyonight" 
   alt="St-Luciferr's Github Streak"/>
+  
 </div>
+
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=St-Luciferr&theme=tokyo-night&hide_border=true&area=true" 
